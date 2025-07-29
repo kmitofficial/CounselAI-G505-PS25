@@ -63,9 +63,13 @@ Deployment: Everything is packed in Docker containers, ready to be run and scale
 <h2>Architecture Diagram</h2>
 
 
-<img width="1711" height="742" alt="image" src="https://github.com/user-attachments/assets/2bcdbf5a-3fd9-4a6a-83dd-878c76cba577" />
+<img width="3093" height="1313" alt="diagram-export-7-29-2025-7_42_15-PM" src="https://github.com/user-attachments/assets/be5dc8c0-dcf1-4cfc-8697-6027e3819657" />
 
 
+
+<h2>Workflow</h2>
+
+<img width="4294" height="1654" alt="diagram-export-7-29-2025-7_31_06-PM" src="https://github.com/user-attachments/assets/6dd690ae-ecf5-468e-a33b-bfb47bee20f4" />
 
 
 <h2>WHY AGENTIC WORKFLOWS ? </h2>
